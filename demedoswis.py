@@ -1,5 +1,3 @@
-from msilib import Directory
-from operator import itemgetter
 from os import system 
 system ("clear")
 #Disclaimer:
